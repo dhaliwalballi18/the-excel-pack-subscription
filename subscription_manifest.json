@@ -1,7 +1,7 @@
 {
   "payload": {
     "product_id": "THE_EXCEL_PACK",
-    "generated_at": "2026-11-01T12:29:26.772400+00:00",
+    "generated_at": "2026-11-03T13:19:59.566701+00:00",
     "clients": {
       "0AAD7EA19F3D6F1FA30CC1A23A2E451DF3F15CF469F7D731BBF9DAAF99AF57C6": {
         "status": "paid",
@@ -14,5 +14,5 @@
       }
     }
   },
-  "signature": "h43LOyDOKOlr0eWWbsGaiKMYaapyX39dMFso4OB8nQ7Nkh18iwGCEY9CPVuojTZxUUmHk17mAzmsu0/Fr2OvBw=="
+  "signature": "mkHt/hCGdbWbLfT3xCpMqr1MzGtGjEpkqXOt/vDBoiTMpCR3wOdNYO6y2HD/4tGEZwmPc6N7pdxyfPvmDNJRCQ=="
 }
